@@ -1,0 +1,14 @@
+C:\Users\Dina Samy\source\repos\task13\task13\bin\Debug\net8.0\task13.exe
+C:\Users\Dina Samy\source\repos\task13\task13\bin\Debug\net8.0\task13.deps.json
+C:\Users\Dina Samy\source\repos\task13\task13\bin\Debug\net8.0\task13.runtimeconfig.json
+C:\Users\Dina Samy\source\repos\task13\task13\bin\Debug\net8.0\task13.dll
+C:\Users\Dina Samy\source\repos\task13\task13\bin\Debug\net8.0\task13.pdb
+C:\Users\Dina Samy\source\repos\task13\task13\obj\Debug\net8.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dina Samy\source\repos\task13\task13\obj\Debug\net8.0\task13.AssemblyInfoInputs.cache
+C:\Users\Dina Samy\source\repos\task13\task13\obj\Debug\net8.0\task13.AssemblyInfo.cs
+C:\Users\Dina Samy\source\repos\task13\task13\obj\Debug\net8.0\task13.csproj.CoreCompileInputs.cache
+C:\Users\Dina Samy\source\repos\task13\task13\obj\Debug\net8.0\task13.dll
+C:\Users\Dina Samy\source\repos\task13\task13\obj\Debug\net8.0\refint\task13.dll
+C:\Users\Dina Samy\source\repos\task13\task13\obj\Debug\net8.0\task13.pdb
+C:\Users\Dina Samy\source\repos\task13\task13\obj\Debug\net8.0\task13.genruntimeconfig.cache
+C:\Users\Dina Samy\source\repos\task13\task13\obj\Debug\net8.0\ref\task13.dll

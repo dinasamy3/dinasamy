@@ -1,0 +1,14 @@
+C:\Users\Dina Samy\source\repos\TASK2\TASK2\bin\Debug\net8.0\TASK2.exe
+C:\Users\Dina Samy\source\repos\TASK2\TASK2\bin\Debug\net8.0\TASK2.deps.json
+C:\Users\Dina Samy\source\repos\TASK2\TASK2\bin\Debug\net8.0\TASK2.runtimeconfig.json
+C:\Users\Dina Samy\source\repos\TASK2\TASK2\bin\Debug\net8.0\TASK2.dll
+C:\Users\Dina Samy\source\repos\TASK2\TASK2\bin\Debug\net8.0\TASK2.pdb
+C:\Users\Dina Samy\source\repos\TASK2\TASK2\obj\Debug\net8.0\TASK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dina Samy\source\repos\TASK2\TASK2\obj\Debug\net8.0\TASK2.AssemblyInfoInputs.cache
+C:\Users\Dina Samy\source\repos\TASK2\TASK2\obj\Debug\net8.0\TASK2.AssemblyInfo.cs
+C:\Users\Dina Samy\source\repos\TASK2\TASK2\obj\Debug\net8.0\TASK2.csproj.CoreCompileInputs.cache
+C:\Users\Dina Samy\source\repos\TASK2\TASK2\obj\Debug\net8.0\TASK2.dll
+C:\Users\Dina Samy\source\repos\TASK2\TASK2\obj\Debug\net8.0\refint\TASK2.dll
+C:\Users\Dina Samy\source\repos\TASK2\TASK2\obj\Debug\net8.0\TASK2.pdb
+C:\Users\Dina Samy\source\repos\TASK2\TASK2\obj\Debug\net8.0\TASK2.genruntimeconfig.cache
+C:\Users\Dina Samy\source\repos\TASK2\TASK2\obj\Debug\net8.0\ref\TASK2.dll

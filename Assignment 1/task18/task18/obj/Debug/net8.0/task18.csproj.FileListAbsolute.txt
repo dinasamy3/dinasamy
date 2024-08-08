@@ -1,0 +1,14 @@
+C:\Users\Dina Samy\source\repos\task18\task18\bin\Debug\net8.0\task18.exe
+C:\Users\Dina Samy\source\repos\task18\task18\bin\Debug\net8.0\task18.deps.json
+C:\Users\Dina Samy\source\repos\task18\task18\bin\Debug\net8.0\task18.runtimeconfig.json
+C:\Users\Dina Samy\source\repos\task18\task18\bin\Debug\net8.0\task18.dll
+C:\Users\Dina Samy\source\repos\task18\task18\bin\Debug\net8.0\task18.pdb
+C:\Users\Dina Samy\source\repos\task18\task18\obj\Debug\net8.0\task18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dina Samy\source\repos\task18\task18\obj\Debug\net8.0\task18.AssemblyInfoInputs.cache
+C:\Users\Dina Samy\source\repos\task18\task18\obj\Debug\net8.0\task18.AssemblyInfo.cs
+C:\Users\Dina Samy\source\repos\task18\task18\obj\Debug\net8.0\task18.csproj.CoreCompileInputs.cache
+C:\Users\Dina Samy\source\repos\task18\task18\obj\Debug\net8.0\task18.dll
+C:\Users\Dina Samy\source\repos\task18\task18\obj\Debug\net8.0\refint\task18.dll
+C:\Users\Dina Samy\source\repos\task18\task18\obj\Debug\net8.0\task18.pdb
+C:\Users\Dina Samy\source\repos\task18\task18\obj\Debug\net8.0\task18.genruntimeconfig.cache
+C:\Users\Dina Samy\source\repos\task18\task18\obj\Debug\net8.0\ref\task18.dll

@@ -1,0 +1,14 @@
+C:\Users\Dina Samy\source\repos\task17\task17\bin\Debug\net8.0\task17.exe
+C:\Users\Dina Samy\source\repos\task17\task17\bin\Debug\net8.0\task17.deps.json
+C:\Users\Dina Samy\source\repos\task17\task17\bin\Debug\net8.0\task17.runtimeconfig.json
+C:\Users\Dina Samy\source\repos\task17\task17\bin\Debug\net8.0\task17.dll
+C:\Users\Dina Samy\source\repos\task17\task17\bin\Debug\net8.0\task17.pdb
+C:\Users\Dina Samy\source\repos\task17\task17\obj\Debug\net8.0\task17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dina Samy\source\repos\task17\task17\obj\Debug\net8.0\task17.AssemblyInfoInputs.cache
+C:\Users\Dina Samy\source\repos\task17\task17\obj\Debug\net8.0\task17.AssemblyInfo.cs
+C:\Users\Dina Samy\source\repos\task17\task17\obj\Debug\net8.0\task17.csproj.CoreCompileInputs.cache
+C:\Users\Dina Samy\source\repos\task17\task17\obj\Debug\net8.0\task17.dll
+C:\Users\Dina Samy\source\repos\task17\task17\obj\Debug\net8.0\refint\task17.dll
+C:\Users\Dina Samy\source\repos\task17\task17\obj\Debug\net8.0\task17.pdb
+C:\Users\Dina Samy\source\repos\task17\task17\obj\Debug\net8.0\task17.genruntimeconfig.cache
+C:\Users\Dina Samy\source\repos\task17\task17\obj\Debug\net8.0\ref\task17.dll

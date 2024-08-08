@@ -1,0 +1,14 @@
+C:\Users\Dina Samy\source\repos\TASK4\TASK4\bin\Debug\net8.0\TASK4.exe
+C:\Users\Dina Samy\source\repos\TASK4\TASK4\bin\Debug\net8.0\TASK4.deps.json
+C:\Users\Dina Samy\source\repos\TASK4\TASK4\bin\Debug\net8.0\TASK4.runtimeconfig.json
+C:\Users\Dina Samy\source\repos\TASK4\TASK4\bin\Debug\net8.0\TASK4.dll
+C:\Users\Dina Samy\source\repos\TASK4\TASK4\bin\Debug\net8.0\TASK4.pdb
+C:\Users\Dina Samy\source\repos\TASK4\TASK4\obj\Debug\net8.0\TASK4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dina Samy\source\repos\TASK4\TASK4\obj\Debug\net8.0\TASK4.AssemblyInfoInputs.cache
+C:\Users\Dina Samy\source\repos\TASK4\TASK4\obj\Debug\net8.0\TASK4.AssemblyInfo.cs
+C:\Users\Dina Samy\source\repos\TASK4\TASK4\obj\Debug\net8.0\TASK4.csproj.CoreCompileInputs.cache
+C:\Users\Dina Samy\source\repos\TASK4\TASK4\obj\Debug\net8.0\TASK4.dll
+C:\Users\Dina Samy\source\repos\TASK4\TASK4\obj\Debug\net8.0\refint\TASK4.dll
+C:\Users\Dina Samy\source\repos\TASK4\TASK4\obj\Debug\net8.0\TASK4.pdb
+C:\Users\Dina Samy\source\repos\TASK4\TASK4\obj\Debug\net8.0\TASK4.genruntimeconfig.cache
+C:\Users\Dina Samy\source\repos\TASK4\TASK4\obj\Debug\net8.0\ref\TASK4.dll
