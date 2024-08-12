@@ -1,0 +1,14 @@
+C:\Users\Dina Samy\source\repos\parameters\parameters\bin\Debug\net8.0\parameters.exe
+C:\Users\Dina Samy\source\repos\parameters\parameters\bin\Debug\net8.0\parameters.deps.json
+C:\Users\Dina Samy\source\repos\parameters\parameters\bin\Debug\net8.0\parameters.runtimeconfig.json
+C:\Users\Dina Samy\source\repos\parameters\parameters\bin\Debug\net8.0\parameters.dll
+C:\Users\Dina Samy\source\repos\parameters\parameters\bin\Debug\net8.0\parameters.pdb
+C:\Users\Dina Samy\source\repos\parameters\parameters\obj\Debug\net8.0\parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dina Samy\source\repos\parameters\parameters\obj\Debug\net8.0\parameters.AssemblyInfoInputs.cache
+C:\Users\Dina Samy\source\repos\parameters\parameters\obj\Debug\net8.0\parameters.AssemblyInfo.cs
+C:\Users\Dina Samy\source\repos\parameters\parameters\obj\Debug\net8.0\parameters.csproj.CoreCompileInputs.cache
+C:\Users\Dina Samy\source\repos\parameters\parameters\obj\Debug\net8.0\parameters.dll
+C:\Users\Dina Samy\source\repos\parameters\parameters\obj\Debug\net8.0\refint\parameters.dll
+C:\Users\Dina Samy\source\repos\parameters\parameters\obj\Debug\net8.0\parameters.pdb
+C:\Users\Dina Samy\source\repos\parameters\parameters\obj\Debug\net8.0\parameters.genruntimeconfig.cache
+C:\Users\Dina Samy\source\repos\parameters\parameters\obj\Debug\net8.0\ref\parameters.dll
