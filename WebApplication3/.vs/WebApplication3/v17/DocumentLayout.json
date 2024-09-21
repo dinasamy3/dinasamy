@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCCCE54-F197-45C8-AD26-2686C62F13DF}|WebApplication3\\WebApplication3.csproj|c:\\users\\dina samy\\source\\repos\\webapplication3\\webapplication3\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFCCCE54-F197-45C8-AD26-2686C62F13DF}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCCCE54-F197-45C8-AD26-2686C62F13DF}|WebApplication3\\WebApplication3.csproj|c:\\users\\dina samy\\source\\repos\\webapplication3\\webapplication3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCCCE54-F197-45C8-AD26-2686C62F13DF}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCCCE54-F197-45C8-AD26-2686C62F13DF}|WebApplication3\\WebApplication3.csproj|c:\\users\\dina samy\\source\\repos\\webapplication3\\webapplication3\\controllers\\dal\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCCCE54-F197-45C8-AD26-2686C62F13DF}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\dal\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\WebApplication3\\Migrations\\20240921110030_v.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication3\\Migrations\\20240921110030_v.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCCCE54-F197-45C8-AD26-2686C62F13DF}|WebApplication3\\WebApplication3.csproj|c:\\users\\dina samy\\source\\repos\\webapplication3\\webapplication3\\controllers\\dal\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCCCE54-F197-45C8-AD26-2686C62F13DF}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\dal\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCCCE54-F197-45C8-AD26-2686C62F13DF}|WebApplication3\\WebApplication3.csproj|c:\\users\\dina samy\\source\\repos\\webapplication3\\webapplication3\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFCCCE54-F197-45C8-AD26-2686C62F13DF}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFCCCE54-F197-45C8-AD26-2686C62F13DF}|WebApplication3\\WebApplication3.csproj|c:\\users\\dina samy\\source\\repos\\webapplication3\\webapplication3\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFCCCE54-F197-45C8-AD26-2686C62F13DF}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T11:14:48.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T11:06:18.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240921110030_v.cs",
+              "DocumentMoniker": "C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\WebApplication3\\Migrations\\20240921110030_v.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Migrations\\20240921110030_v.cs",
+              "ToolTip": "C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\WebApplication3\\Migrations\\20240921110030_v.cs",
+              "RelativeToolTip": "WebApplication3\\Migrations\\20240921110030_v.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T11:00:30.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\DAL\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\DAL\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\DAL\\Entities\\Employee.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\DAL\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:54:31.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\DAL\\DB\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\DAL\\DB\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\DAL\\DB\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\DAL\\DB\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAhwAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:52:15.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Test\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T10:47:15.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Dina Samy\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\TestController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:45:26.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

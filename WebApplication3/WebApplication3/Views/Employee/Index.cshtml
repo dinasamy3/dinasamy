@@ -1,0 +1,16 @@
+﻿@using WebApplication3.DAL.Entities
+@model List<Employee>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@foreach (var item in Model)
+{
+
+    <p>@Sitem.Id</p>
+    <p>@item.Name</p>
+    <p>@item.Age</p>
+    <p>===============</p>
+}
